@@ -1,0 +1,116 @@
+{
+  "meetings": [
+    {
+      "id": "demo-nvidia-partnership",
+      "subjectType": "company",
+      "subjectName": "NVIDIA",
+      "meetingDate": "2026-11-20",
+      "meetingTime": "14:00",
+      "meetingTimeZone": "America/Los_Angeles",
+      "purpose": "Partnership Discussion",
+      "context": "Strategic partnership discussion exploring enterprise AI infrastructure integration, accelerated inference deployment, and joint go-to-market initiatives.",
+      "additionalInterests": [
+        "Product launches",
+        "New partnerships",
+        "Technology developments",
+        "Leadership changes"
+      ],
+      "isSampleDemo": true,
+      "researchStatus": "draft",
+      "researchStartDate": "2026-10-19",
+      "researchEndDate": "2026-11-18",
+      "stages": [
+        {
+          "id": "stage-1",
+          "stepNumber": 1,
+          "label": "Understanding meeting context",
+          "status": "pending"
+        },
+        {
+          "id": "stage-2",
+          "stepNumber": 2,
+          "label": "Creating research queries",
+          "status": "pending"
+        },
+        {
+          "id": "stage-3",
+          "stepNumber": 3,
+          "label": "Searching recent developments with Tavily",
+          "status": "pending"
+        },
+        {
+          "id": "stage-4",
+          "stepNumber": 4,
+          "label": "Collecting source evidence",
+          "status": "pending"
+        },
+        {
+          "id": "stage-5",
+          "stepNumber": 5,
+          "label": "Removing duplicate results",
+          "status": "pending"
+        },
+        {
+          "id": "stage-6",
+          "stepNumber": 6,
+          "label": "Evaluating evidence and dates",
+          "status": "pending"
+        },
+        {
+          "id": "stage-7",
+          "stepNumber": 7,
+          "label": "Analyzing meeting relevance with Gemini",
+          "status": "pending"
+        },
+        {
+          "id": "stage-8",
+          "stepNumber": 8,
+          "label": "Generating the briefing",
+          "status": "pending"
+        },
+        {
+          "id": "stage-9",
+          "stepNumber": 9,
+          "label": "Saving the final report",
+          "status": "pending"
+        }
+      ],
+      "queryExecutions": [],
+      "rawResults": [],
+      "findings": [],
+      "briefing": null,
+      "history": [],
+      "lastRefreshDiff": null,
+      "searchUsage": {
+        "searchesPerformed": 0,
+        "searchBudgetMax": 5,
+        "deduplicatedUrlsCount": 0,
+        "rawResultsReturned": 0,
+        "creditsReported": 0
+      },
+      "createdAt": "2026-11-18T14:58:46.645Z",
+      "updatedAt": "2026-11-18T14:58:46.645Z"
+    }
+  ],
+  "activities": [
+    {
+      "id": "act-1795013926646",
+      "timestamp": "2026-11-18T14:58:46.646Z",
+      "meetingId": "demo-nvidia-partnership",
+      "subjectName": "NVIDIA (Sample Scenario)",
+      "action": "Demo Scenario Initialized",
+      "status": "info",
+      "details": "Sample meeting created without preloaded fake news. Run live Tavily research to generate verified 30-day briefing."
+    }
+  ],
+  "usage": {
+    "totalSearchesExecuted": 1,
+    "totalCreditsReported": 1,
+    "totalBriefingsGenerated": 0,
+    "totalRefreshesExecuted": 0,
+    "bifrostRequestsCount": 0,
+    "geminiDirectRequestsCount": 0,
+    "defaultSearchBudgetPerRun": 5,
+    "lastSearchAt": "2026-11-18T17:09:51.600Z"
+  }
+}

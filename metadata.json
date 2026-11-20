@@ -1,0 +1,6 @@
+{
+  "name": "MeetWise AI",
+  "description": "Your Intelligent Pre-Meeting Research Assistant. Research smarter, prepare better, and walk into every meeting informed with verified 30-day intelligence powered by Tavily, Bifrost, and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
